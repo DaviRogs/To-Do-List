@@ -10,5 +10,4 @@ public class TelaInicio {
 		// TODO Auto-generated method stub
 
 	}
-
 }
